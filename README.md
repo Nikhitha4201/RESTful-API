@@ -13,9 +13,9 @@ After in terminal type this commands to install all dependencies and run server.
                   npm i       and  npm start          
 Finally, if you get below message in terminal then your server will running successfully.
 
-Routes And It's Functionality
+Routes And It's Functionality:
 
-  .![Screenshot (294)](https://github.com/Nikhitha4201/RESTful-API/assets/117525678/3490d333-5b34-4143-b6b0-240555dfc0df)
+ ![Screenshot (294)](https://github.com/Nikhitha4201/RESTful-API/assets/117525678/3490d333-5b34-4143-b6b0-240555dfc0df)
 
            
 

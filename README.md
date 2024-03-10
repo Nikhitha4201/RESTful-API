@@ -35,7 +35,8 @@ If user is already in db it will return course is already exist as response.
           url  as:   http://localhost:2000/api/v1/courses/ 65ed65adfddc1b541b8d2885
          After clicking send you will get that specific course  details as response.
   READ ALL : 
-            Read all route is used to get all  courses data existing in the mongodb data base .
+            Read all route is used to get all  courses data existing in the mongodb data base .![Screenshot (294)](https://github.com/Nikhitha4201/RESTful-API/assets/117525678/3490d333-5b34-4143-b6b0-240555dfc0df)
+
             method  as get:
              url  as:  http://localhost:2000/api/v1/courses/
            After clicking send you will get  all courses details as response.
@@ -48,6 +49,5 @@ If user is already in db it will return course is already exist as response.
             This route is used to delete specific course by passing that course id as a param.
              method as delete:
              url  as: http://localhost:2000/api/v1/delete/ 65ed65adfddc1b541b8d2885
-						 After clicking send your data will be  deleted successfully as response.
-•	After clicking send your data will be  deleted successfully as response.
+	    After clicking send your data will be  deleted successfully as response.
 
